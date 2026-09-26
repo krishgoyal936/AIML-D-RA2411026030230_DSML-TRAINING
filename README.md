@@ -35,4 +35,4 @@ This repository contains practical assignments and machine learning implementati
 
 1. Clone the repository:
    ```bash
-   
+    git clone [https://github.com/krishgoyal936/AIML-D-RA2411026030230_DSML-TRAINING.git](https://github.com/krishgoyal936/AIML-D-RA2411026030230_DSML-TRAINING.git)
